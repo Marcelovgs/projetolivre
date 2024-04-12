@@ -557,7 +557,7 @@ nav .navlist li a {
     gap: .2rem;
     position: absolute;
     bottom: 0;
-    right: 120px;
+    right: 110px;
     z-index: 1;
     opacity: 0;
     transition: var(--transition);
