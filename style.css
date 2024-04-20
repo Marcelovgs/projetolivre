@@ -705,7 +705,7 @@ background: #eee;
 @media (max-width: 660px){
     .home h1{
         font-size: 3rem;
-        margin-top: -300px;
+        margin-top: -200px;
     }
     .container{
         width: var(--width-sm);
@@ -748,7 +748,7 @@ background: #eee;
 }
 
 .home .content .p1 {
-        margin-top: 100px;
+        margin-top: 200px;
 }
 }
 
