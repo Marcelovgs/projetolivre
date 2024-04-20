@@ -705,7 +705,7 @@ background: #eee;
 @media (max-width: 660px){
     .home h1{
         font-size: 3rem;
-        margin-top: -400px;
+        margin-top: -500px;
     }
     .container{
         width: var(--width-sm);
