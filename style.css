@@ -705,6 +705,7 @@ background: #eee;
 @media (max-width: 660px){
     .home h1{
         font-size: 3rem;
+        margin-top: -100px;
     }
     .container{
         width: var(--width-sm);
@@ -715,7 +716,7 @@ background: #eee;
     }
     .home .content p{
         margin: 1rem .5rem;
-        margin-top: -100px;
+        
     }
     .home .home-search input{
         height: 4rem;
