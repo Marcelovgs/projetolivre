@@ -715,6 +715,7 @@ background: #eee;
     }
     .home .content p{
         margin: 1rem .5rem;
+        margin-top: -100px;
     }
     .home .home-search input{
         height: 4rem;
