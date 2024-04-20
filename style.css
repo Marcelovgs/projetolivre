@@ -713,6 +713,7 @@ background: #eee;
     .home .swiper-slide .content{
         transform: translate(0, 70%);
         text-align: center;
+            
     }
     .home .content p{
         margin: 1rem .5rem;
@@ -733,6 +734,7 @@ background: #eee;
     .home .swiper-button-next::after,
     .home .swiper-button-prev::after{
         top: -15rem;
+        display: none;
     }
 
     .services-container,
