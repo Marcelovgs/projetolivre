@@ -747,7 +747,7 @@ background: #eee;
     grid-template-columns: 1fr;
 }
 .home .h1 {
-    margin-top: 50px;
+/*     margin-top: 50px; */
 }
 
 .home .content .p1 {
