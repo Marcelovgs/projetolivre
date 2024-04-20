@@ -713,7 +713,7 @@ background: #eee;
     .home .swiper-slide .content{
         transform: translate(0, 70%);
         text-align: center;
-        margin-top: 500px;
+        margin-top: 200px;
             
     }
     .home .content p{
